@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"questao3","l":"FaturamentoDistribuidora"},{"p":"questao4","l":"FaturamentoEstados"},{"p":"questao2","l":"Fibonacci"},{"p":"questao5","l":"InverteString"},{"p":"questao1","l":"Job"}];updateSearchResults();

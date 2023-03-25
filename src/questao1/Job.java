@@ -1,0 +1,22 @@
+package questao1;
+/**
+ *
+ * @author Gabbszzz
+ */
+public class Job {
+
+    
+    public static void main(String[] args) {
+        
+        int INDICE = 13, SOMA = 0, K = 0;
+        
+       while(K < INDICE){
+
+       K = K + 1;
+
+       SOMA = SOMA + K;
+
+   }
+      System.out.printf("%d",SOMA);
+    }  
+}
