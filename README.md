@@ -1,3 +1,3 @@
 # Job-Rotation
 
-A resolução de cada questão está no arquivo 'build'
+A resolução de cada questão está no arquivo 'build/classes'
